@@ -4,7 +4,7 @@ Company:gwing software technologies pvt limited
 Domain:frontend
 Overview of the project
 Project:RANDOM PASSWORD GENERATOR WEB APPLICATION
-"C:\Users\Neha\Pictures\Screenshots\Screenshot 2024-07-30 235043.png"
+![Screenshot 2024-07-30 235043](https://github.com/user-attachments/assets/89ccfc09-b6a3-4256-a2bf-7b1b64c2e00c)
 Objective
 The objective of this project is to build a basic random password generator web application.The aim is to generate a random password of specified length , display the generated password in an input field , allow copying the password to the clipboard with a button or icon to provide visual feedback for successful copying. 
 STEPS:
